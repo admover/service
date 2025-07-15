@@ -1,4 +1,4 @@
-module github.com/kardianos/service
+module github.com/admover/service
 
 go 1.23.0
 
